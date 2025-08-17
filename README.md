@@ -18,28 +18,49 @@ I specialize in AI/ML architecture, deep learning, and MLOps, with 10+ years of 
 - 📄 Know about my experiences [https://qaisarrajput.github.io/resume](https://qaisarrajput.github.io/resume)
 
 ### Recent Publications:
-<!-- BLOG-POST-LIST:START --><a href="https://pub.towardsai.net/meta-dinov3-630cd469d1f3?source=rss-71aad953b7b3------2" target="_blank">
-  <img src="https://cdn-images-1.medium.com/max/1024/1*y3lPsbCSzNJ7VPuerUdBmA.png" alt="DINOv3: why vision foundation models deserve the same excitement as LLMs" width="400"/>
-</a><br/>
-<b><a href="https://pub.towardsai.net/meta-dinov3-630cd469d1f3?source=rss-71aad953b7b3------2" target="_blank">DINOv3: why vision foundation models deserve the same excitement as LLMs</a></b><br/>
-Every day the feed hypes the next big LLM. That makes sense — language unlocked new product workflows. But the release of DINOv3 is a reminder that vision is entering a comparable inflection point: a single, frozen backbone that delivers high-resolution dense features usable across many tasks, often without fine-tuning. This matters for product velocity, annotation budgets, and where engineering effort should live. (AI Meta, GitHub)<br/>
-<i>Tags:</i> <code>ai</code><code>meta</code><code>computer-vision</code><code>chatgpt</code><code>llama-3</code>
-
-<a href="https://pub.towardsai.net/seo-to-geo-search-engine-optimization-using-ai-ef3b50c7d878?source=rss-71aad953b7b3------2" target="_blank">
-  <img src="https://cdn-images-1.medium.com/max/1024/1*Ukbs05BrbSZMpuEVzBkPKQ.png" alt="SEO to GEO: Search Engine Optimization using AI" width="400"/>
-</a><br/>
-<b><a href="https://pub.towardsai.net/seo-to-geo-search-engine-optimization-using-ai-ef3b50c7d878?source=rss-71aad953b7b3------2" target="_blank">SEO to GEO: Search Engine Optimization using AI</a></b><br/>
-Content strategy is undergoing a fundamental shift: traditional SEO, with its keyword-centric, link-building tactics, is giving way to Generative Engine Optimization (GEO), an approach designed to ensure content is not only discoverable but also directly consumable by AI-driven search systems. As a data scientist who has spent years working with NLP models, LLM pipelines, and AI-driven analytics, I’ve witnessed firsthand how this transition is transforming digital discovery. In my expert opinion, companies that embrace GEO today will secure a decisive advantage tomorrow.<br/>
-<i>Tags:</i> <code>openai</code><code>ranking-on-google</code><code>genai</code><code>seo</code><code>search-engine-optimizati</code>
-
-<a href="https://medium.com/@qaisartanvir/codebase-to-text-give-your-whole-code-project-to-llms-046ffcea0926?source=rss-71aad953b7b3------2" target="_blank">
-  <img src="https://cdn-images-1.medium.com/max/1024/1*X4S_CZjiBFSRfjkYnC80Rg.png" alt="Codebase-to-Text : Give your whole code project to LLMs" width="400"/>
-</a><br/>
-<b><a href="https://medium.com/@qaisartanvir/codebase-to-text-give-your-whole-code-project-to-llms-046ffcea0926?source=rss-71aad953b7b3------2" target="_blank">Codebase-to-Text : Give your whole code project to LLMs</a></b><br/>
-A quick way to convert all your code project into one text file for LLMs based context or RAG based applications.<br/>
-<i>Tags:</i> <code>python</code><code>retrieval-augmented</code><code>terminal</code><code>large-language-models</code><code>open-source</code>
-
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><table>
+  <tr>
+    <td width="220" valign="top">
+      <a href="https://pub.towardsai.net/meta-dinov3-630cd469d1f3?source=rss-71aad953b7b3------2" target="_blank">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*y3lPsbCSzNJ7VPuerUdBmA.png" alt="DINOv3: why vision foundation models deserve the same excitement as LLMs" width="200"/>
+      </a>
+    </td>
+    <td valign="top">
+      <b><a href="https://pub.towardsai.net/meta-dinov3-630cd469d1f3?source=rss-71aad953b7b3------2" target="_blank">DINOv3: why vision foundation models deserve the same excitement as LLMs</a></b><br/>
+      <p>Every day the feed hypes the next big LLM. That makes sense — language unlocked new product workflows. But the release of DINOv3 is a reminder that vision is entering a comparable inflection point: a single, frozen backbone that delivers high-resolution dense features usable across many tasks, often without fine-tuning. This matters for product velocity, annotation budgets, and where engineering effort should live. (AI Meta, GitHub)</p>
+      <i>Tags:</i> <code>ai</code><code>meta</code><code>computer-vision</code><code>chatgpt</code><code>llama-3</code>
+    </td>
+  </tr>
+</table>
+<br/><table>
+  <tr>
+    <td width="220" valign="top">
+      <a href="https://pub.towardsai.net/seo-to-geo-search-engine-optimization-using-ai-ef3b50c7d878?source=rss-71aad953b7b3------2" target="_blank">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*Ukbs05BrbSZMpuEVzBkPKQ.png" alt="SEO to GEO: Search Engine Optimization using AI" width="200"/>
+      </a>
+    </td>
+    <td valign="top">
+      <b><a href="https://pub.towardsai.net/seo-to-geo-search-engine-optimization-using-ai-ef3b50c7d878?source=rss-71aad953b7b3------2" target="_blank">SEO to GEO: Search Engine Optimization using AI</a></b><br/>
+      <p>Content strategy is undergoing a fundamental shift: traditional SEO, with its keyword-centric, link-building tactics, is giving way to Generative Engine Optimization (GEO), an approach designed to ensure content is not only discoverable but also directly consumable by AI-driven search systems. As a data scientist who has spent years working with NLP models, LLM pipelines, and AI-driven analytics, I’ve witnessed firsthand how this transition is transforming digital discovery. In my expert opinion, companies that embrace GEO today will secure a decisive advantage tomorrow.</p>
+      <i>Tags:</i> <code>openai</code><code>ranking-on-google</code><code>genai</code><code>seo</code><code>search-engine-optimizati</code>
+    </td>
+  </tr>
+</table>
+<br/><table>
+  <tr>
+    <td width="220" valign="top">
+      <a href="https://medium.com/@qaisartanvir/codebase-to-text-give-your-whole-code-project-to-llms-046ffcea0926?source=rss-71aad953b7b3------2" target="_blank">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*X4S_CZjiBFSRfjkYnC80Rg.png" alt="Codebase-to-Text : Give your whole code project to LLMs" width="200"/>
+      </a>
+    </td>
+    <td valign="top">
+      <b><a href="https://medium.com/@qaisartanvir/codebase-to-text-give-your-whole-code-project-to-llms-046ffcea0926?source=rss-71aad953b7b3------2" target="_blank">Codebase-to-Text : Give your whole code project to LLMs</a></b><br/>
+      <p>A quick way to convert all your code project into one text file for LLMs based context or RAG based applications.</p>
+      <i>Tags:</i> <code>python</code><code>retrieval-augmented</code><code>terminal</code><code>large-language-models</code><code>open-source</code>
+    </td>
+  </tr>
+</table>
+<br/><!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
