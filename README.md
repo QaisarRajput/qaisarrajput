@@ -105,34 +105,6 @@ I specialize in AI/ML architecture, deep learning, and MLOps, with 10+ years of 
 <br/><table>
   <tr>
     <td width="220" valign="top">
-      <a href="https://medium.com/@qaisartanvir/realzoo-game-images-of-all-animals-and-hyribs-144323877a15?source=rss-71aad953b7b3------2" target="_blank">
-        <img src="https://cdn-images-1.medium.com/max/1024/1*IhMOqzm6HVVlfk9BT-JtWQ.png" alt="RealZoo Game — Images of all Animals and Hybrids" width="200"/>
-      </a>
-    </td>
-    <td valign="top">
-      <b><a href="https://medium.com/@qaisartanvir/realzoo-game-images-of-all-animals-and-hyribs-144323877a15?source=rss-71aad953b7b3------2" target="_blank">RealZoo Game — Images of all Animals and Hybrids</a></b><br/>
-      <p>If you are curious and impatient to see all animals and hybrids? I got you!</p>
-      <i>Tags:</i> <code>cryptozoo</code><code>logan-paul</code><code>nft</code><code>games</code><code>ai-art</code>
-    </td>
-  </tr>
-</table>
-<br/><table>
-  <tr>
-    <td width="220" valign="top">
-      <a href="https://medium.com/@qaisartanvir/how-to-download-torrent-if-blocked-in-country-or-by-isp-safe-and-free-without-vpn-2bf717fcb0ec?source=rss-71aad953b7b3------2" target="_blank">
-        <img src="https://cdn-images-1.medium.com/max/1024/1*YDN0r92OsjEWEp6wtMDu6g.png" alt="How to download Torrent if blocked in Country or by ISP. Safe and Free! Without VPN" width="200"/>
-      </a>
-    </td>
-    <td valign="top">
-      <b><a href="https://medium.com/@qaisartanvir/how-to-download-torrent-if-blocked-in-country-or-by-isp-safe-and-free-without-vpn-2bf717fcb0ec?source=rss-71aad953b7b3------2" target="_blank">How to download Torrent if blocked in Country or by ISP. Safe and Free! Without VPN</a></b><br/>
-      <p>Torrents are always a point of debate, but conceptually, torrents are not illegal. Its just the content on torrents website may or may not be legal. Because of this many countries and ISPs (Your network provider) can have limitations or restrictions, when it comes to torrents. In some cases, they outright block torrents and other cases when the torrent activity is observed, they send you a warning.</p>
-      <i>Tags:</i> <code>torrent</code><code>free</code><code>download</code><code>vpn</code><code>download-movies</code>
-    </td>
-  </tr>
-</table>
-<br/><table>
-  <tr>
-    <td width="220" valign="top">
       <a href="https://medium.com/data-science/multi-page-document-classification-using-machine-learning-and-nlp-ba6151405c03?source=rss-71aad953b7b3------2" target="_blank">
         <img src="https://cdn-images-1.medium.com/max/1024/1*BhL_PYvVwg0K-mi2RYIa2g.jpeg" alt="Multi Page Document Classification using Machine Learning and NLP" width="200"/>
       </a>
