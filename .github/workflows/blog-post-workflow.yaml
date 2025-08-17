@@ -17,7 +17,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@qaisartanvir"
-          max_post_count: 3
+          max_post_count: 10
           disable_html_encoding: true
           # Map Medium's content:encoded into two custom fields we will process
           custom_tags: "postImage/content:encoded/,postDesc/content:encoded/"
@@ -25,21 +25,22 @@ jobs:
           categories_template: "<code>$category</code> "
           # Extract image URL + first paragraph (plain text) from content:encoded
           item_exec: >
-            const html = (post.postImage || '');
-            const mImg = html.match(/<img[^>]+src="([^"]+)"/i);
-            post.postImage = mImg ? mImg[1] : '';
-            const html2 = (post.postDesc || '');
-            const mP = html2.match(/<p>(.*?)<\/p>/i);
-            post.postDesc = mP
-              ? mP[1].replace(/<[^>]+>/g,'').replace(/&nbsp;/g,' ').trim()
-              : '';
-            // Titles to skip
-            const skipTitles = [
-              "RealZoo",
-              "How to download Torrent"
-            ];
-            if (skipTitles.some(t => post.title.toLowerCase().includes(t.toLowerCase()))) {
-              post = null;
+            if (post.title && (
+                post.title.includes("example title to ignore") ||
+                post.title.includes("another substring")
+              )) {
+                    post = null;
+                  } 
+            else {
+              const html = (post.postImage || '');
+              const mImg = html.match(/<img[^>]+src="([^"]+)"/i);
+              post.postImage = mImg ? mImg[1] : '';
+          
+              const html2 = (post.postDesc || '');
+              const mP = html2.match(/<p>(.*?)<\/p>/i);
+              post.postDesc = mP
+                ? mP[1].replace(/<[^>]+>/g,'').replace(/&nbsp;/g,' ').trim()
+                : '';
             }
           # Your custom template
           template: |
