@@ -22,7 +22,7 @@ I specialize in AI/ML architecture, deep learning, and MLOps, with 10+ years of 
 - [DINOv3: why vision foundation models deserve the same excitement as LLMs](https://pub.towardsai.net/meta-dinov3-630cd469d1f3?source=rss-71aad953b7b3------2)
 - [SEO to GEO: Search Engine Optimization using AI](https://pub.towardsai.net/seo-to-geo-search-engine-optimization-using-ai-ef3b50c7d878?source=rss-71aad953b7b3------2)
 - [Codebase-to-Text : Give your whole code project to LLMs](https://medium.com/@qaisartanvir/codebase-to-text-give-your-whole-code-project-to-llms-046ffcea0926?source=rss-71aad953b7b3------2)
-- [Ethical Implications of AI in Warfare: Navigating a Complex Landscape](https://medium.com/@qaisartanvir/ai-in-warfare-606ed510ae48?source=rss-71aad953b7b3------2)
+- [Ethical Implications of AI in Warfare: Navigating a Complex Landscape](https://pub.towardsai.net/ai-in-warfare-606ed510ae48?source=rss-71aad953b7b3------2)
 - [Multimodal Deep Multipage Document Classification using both Image and Text](https://pub.towardsai.net/multimodal-deep-multipage-document-classification-using-both-image-and-text-629e5a2fdb47?source=rss-71aad953b7b3------2)
 - [Data Drift Analysis using Deep Learning and Novelty Detection](https://medium.com/@qaisartanvir/data-drift-analysis-using-deep-learning-and-novelty-detection-e6232f9cdbb3?source=rss-71aad953b7b3------2)
 - [RealZoo Game — Images of all Animals and Hybrids](https://medium.com/@qaisartanvir/realzoo-game-images-of-all-animals-and-hyribs-144323877a15?source=rss-71aad953b7b3------2)
