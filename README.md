@@ -60,6 +60,104 @@ I specialize in AI/ML architecture, deep learning, and MLOps, with 10+ years of 
     </td>
   </tr>
 </table>
+<br/><table>
+  <tr>
+    <td width="220" valign="top">
+      <a href="https://pub.towardsai.net/ai-in-warfare-606ed510ae48?source=rss-71aad953b7b3------2" target="_blank">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*U5nDy7_D9jcIYt2CPcsz9Q.png" alt="Ethical Implications of AI in Warfare: Navigating a Complex Landscape" width="200"/>
+      </a>
+    </td>
+    <td valign="top">
+      <b><a href="https://pub.towardsai.net/ai-in-warfare-606ed510ae48?source=rss-71aad953b7b3------2" target="_blank">Ethical Implications of AI in Warfare: Navigating a Complex Landscape</a></b><br/>
+      <p>Exploring the Real-World Implications and Regulatory Imperatives Amidst Israel’s AI-Enabled Military Operations</p>
+      <i>Tags:</i> <code>surveillance</code><code>responsible-ai</code><code>artificial-intelligence</code><code>warfare</code><code>machine-learning</code>
+    </td>
+  </tr>
+</table>
+<br/><table>
+  <tr>
+    <td width="220" valign="top">
+      <a href="https://pub.towardsai.net/multimodal-deep-multipage-document-classification-using-both-image-and-text-629e5a2fdb47?source=rss-71aad953b7b3------2" target="_blank">
+        <img src="https://cdn-images-1.medium.com/max/685/0*XNzEsJrBOAeXgxA4.png" alt="Multimodal Deep Multipage Document Classification using both Image and Text" width="200"/>
+      </a>
+    </td>
+    <td valign="top">
+      <b><a href="https://pub.towardsai.net/multimodal-deep-multipage-document-classification-using-both-image-and-text-629e5a2fdb47?source=rss-71aad953b7b3------2" target="_blank">Multimodal Deep Multipage Document Classification using both Image and Text</a></b><br/>
+      <p>Document AI using python and Tensorflow, using CNN (for image) and BERT (for text), and combining both in a multimodal model to get the best of both worlds</p>
+      <i>Tags:</i> <code>nlp</code><code>document-classification</code><code>deep-learning</code><code>machine-learning</code><code>python</code>
+    </td>
+  </tr>
+</table>
+<br/><table>
+  <tr>
+    <td width="220" valign="top">
+      <a href="https://medium.com/@qaisartanvir/data-drift-analysis-using-deep-learning-and-novelty-detection-e6232f9cdbb3?source=rss-71aad953b7b3------2" target="_blank">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*BppLeGvT-R8uVBQU09AG7A.png" alt="Data Drift Analysis using Deep Learning and Novelty Detection" width="200"/>
+      </a>
+    </td>
+    <td valign="top">
+      <b><a href="https://medium.com/@qaisartanvir/data-drift-analysis-using-deep-learning-and-novelty-detection-e6232f9cdbb3?source=rss-71aad953b7b3------2" target="_blank">Data Drift Analysis using Deep Learning and Novelty Detection</a></b><br/>
+      <p>In recent years, deep machine learning models have become increasingly popular in various fields, including computer vision, natural language processing, and speech recognition. These models are trained on large datasets to learn patterns and make predictions. However, as time passes, the data distribution may change, leading to a phenomenon called “data drift.” This can cause a drop in model performance and accuracy. Therefore, it is essential to detect data drift and update the model accordingly.</p>
+      <i>Tags:</i> <code>machine-learning</code><code>deep-learning</code><code>data-drift</code><code>artificial-intelligence</code><code>data-science</code>
+    </td>
+  </tr>
+</table>
+<br/><table>
+  <tr>
+    <td width="220" valign="top">
+      <a href="https://medium.com/@qaisartanvir/realzoo-game-images-of-all-animals-and-hyribs-144323877a15?source=rss-71aad953b7b3------2" target="_blank">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*IhMOqzm6HVVlfk9BT-JtWQ.png" alt="RealZoo Game — Images of all Animals and Hybrids" width="200"/>
+      </a>
+    </td>
+    <td valign="top">
+      <b><a href="https://medium.com/@qaisartanvir/realzoo-game-images-of-all-animals-and-hyribs-144323877a15?source=rss-71aad953b7b3------2" target="_blank">RealZoo Game — Images of all Animals and Hybrids</a></b><br/>
+      <p>If you are curious and impatient to see all animals and hybrids? I got you!</p>
+      <i>Tags:</i> <code>cryptozoo</code><code>logan-paul</code><code>nft</code><code>games</code><code>ai-art</code>
+    </td>
+  </tr>
+</table>
+<br/><table>
+  <tr>
+    <td width="220" valign="top">
+      <a href="https://medium.com/@qaisartanvir/how-to-download-torrent-if-blocked-in-country-or-by-isp-safe-and-free-without-vpn-2bf717fcb0ec?source=rss-71aad953b7b3------2" target="_blank">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*YDN0r92OsjEWEp6wtMDu6g.png" alt="How to download Torrent if blocked in Country or by ISP. Safe and Free! Without VPN" width="200"/>
+      </a>
+    </td>
+    <td valign="top">
+      <b><a href="https://medium.com/@qaisartanvir/how-to-download-torrent-if-blocked-in-country-or-by-isp-safe-and-free-without-vpn-2bf717fcb0ec?source=rss-71aad953b7b3------2" target="_blank">How to download Torrent if blocked in Country or by ISP. Safe and Free! Without VPN</a></b><br/>
+      <p>Torrents are always a point of debate, but conceptually, torrents are not illegal. Its just the content on torrents website may or may not be legal. Because of this many countries and ISPs (Your network provider) can have limitations or restrictions, when it comes to torrents. In some cases, they outright block torrents and other cases when the torrent activity is observed, they send you a warning.</p>
+      <i>Tags:</i> <code>torrent</code><code>free</code><code>download</code><code>vpn</code><code>download-movies</code>
+    </td>
+  </tr>
+</table>
+<br/><table>
+  <tr>
+    <td width="220" valign="top">
+      <a href="https://medium.com/data-science/multi-page-document-classification-using-machine-learning-and-nlp-ba6151405c03?source=rss-71aad953b7b3------2" target="_blank">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*BhL_PYvVwg0K-mi2RYIa2g.jpeg" alt="Multi Page Document Classification using Machine Learning and NLP" width="200"/>
+      </a>
+    </td>
+    <td valign="top">
+      <b><a href="https://medium.com/data-science/multi-page-document-classification-using-machine-learning-and-nlp-ba6151405c03?source=rss-71aad953b7b3------2" target="_blank">Multi Page Document Classification using Machine Learning and NLP</a></b><br/>
+      <p>This article describes a novel Multi Page Document Classification solution approach, which leverages advanced machine learning and textual analytics to solve one of the major challenges in the Mortgage industry.</p>
+      <i>Tags:</i> <code>nlp</code><code>machine-learning</code><code>python</code><code>document-classification</code><code>doc2vec</code>
+    </td>
+  </tr>
+</table>
+<br/><table>
+  <tr>
+    <td width="220" valign="top">
+      <a href="https://medium.com/@qaisartanvir/multi-page-document-classification-part-4-357a697abebb?source=rss-71aad953b7b3------2" target="_blank">
+        <img src="https://cdn-images-1.medium.com/max/1024/1*H2QjTNkmzaguIttAQB3QiA.jpeg" alt="Multi-Page Document Classification | Part-4" width="200"/>
+      </a>
+    </td>
+    <td valign="top">
+      <b><a href="https://medium.com/@qaisartanvir/multi-page-document-classification-part-4-357a697abebb?source=rss-71aad953b7b3------2" target="_blank">Multi-Page Document Classification | Part-4</a></b><br/>
+      <p>This article describes a novel Multi-Page Document Classification solution approach, which leverages advanced machine learning and textual analytics to solve one of the major challenges in Mortgage industry. This is the part 4 of our series of blogs. You can find the links to the different parts of the series below.</p>
+      <i>Tags:</i> <code>nlp</code><code>machine-learning</code><code>python</code><code>document-classification</code><code>doc2vec</code>
+    </td>
+  </tr>
+</table>
 <br/><!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
