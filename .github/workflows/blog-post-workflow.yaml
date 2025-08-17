@@ -35,10 +35,19 @@ jobs:
               : '';
           # Your custom template
           template: |
-            <a href="$url" target="_blank">
-              <img src="$postImage" alt="$title" width="400"/>
-            </a><br/>
-            <b><a href="$url" target="_blank">$title</a></b><br/>
-            $postDesc<br/>
-            <i>Tags:</i> $categories$newline$newline
+            <table>
+              <tr>
+                <td width="220" valign="top">
+                  <a href="$url" target="_blank">
+                    <img src="$postImage" alt="$title" width="200"/>
+                  </a>
+                </td>
+                <td valign="top">
+                  <b><a href="$url" target="_blank">$title</a></b><br/>
+                  <p>$postDesc</p>
+                  <i>Tags:</i> $categories
+                </td>
+              </tr>
+            </table>
+            <br/>
           commit_message: "chore: update README with latest Medium posts"
