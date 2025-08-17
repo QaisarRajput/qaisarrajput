@@ -1,8 +1,8 @@
-name: Update Medium posts in README
+name: Latest blog post workflow (Medium)
 
 on:
   schedule:
-    - cron: "*/5 * * * *" # every 5 minutes for testing
+    - cron: "*/5 * * * *"   # every 5 minutes for testing
   workflow_dispatch:
 
 permissions:
@@ -10,33 +10,35 @@ permissions:
 
 jobs:
   update-readme-with-blog:
+    name: Update README with latest Medium posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Pull in Medium posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@qaisartanvir"
           max_post_count: 3
-          commit_message: "Update README with latest Medium posts"
-
-          # Extract fields
-          custom_tags: |
-            postImage/content:encoded/<img.*?src=['"](.*?)['"]/\\1/
-            postDesc/content:encoded/<p>(.*?)<\/p>/\\1/
-            postTags/category/(.*)/\\1/
-
-          # Display template
+          disable_html_encoding: true
+          # Map Medium's content:encoded into two custom fields we will process
+          custom_tags: "postImage/content:encoded/,postDesc/content:encoded/"
+          # Render categories as inline code pills
+          categories_template: "<code>$category</code> "
+          # Extract image URL + first paragraph (plain text) from content:encoded
+          item_exec: >
+            const html = (post.postImage || '');
+            const mImg = html.match(/<img[^>]+src="([^"]+)"/i);
+            post.postImage = mImg ? mImg[1] : '';
+            const html2 = (post.postDesc || '');
+            const mP = html2.match(/<p>(.*?)<\/p>/i);
+            post.postDesc = mP
+              ? mP[1].replace(/<[^>]+>/g,'').replace(/&nbsp;/g,' ').trim()
+              : '';
+          # Your custom template
           template: |
             <a href="$url" target="_blank">
               <img src="$postImage" alt="$title" width="400"/>
-            </a>  
-            <br/>  
-            <b><a href="$url" target="_blank">$title</a></b>  
-            <br/>  
-            $postDesc  
-            <br/>  
-            <i>Tags:</i> $postTags  
-            <br/><br/>
+            </a><br/>
+            <b><a href="$url" target="_blank">$title</a></b><br/>
+            $postDesc<br/>
+            <i>Tags:</i> $categories$newline$newline
+          commit_message: "chore: update README with latest Medium posts"
