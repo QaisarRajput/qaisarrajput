@@ -17,6 +17,8 @@ I specialize in AI/ML architecture, deep learning, and MLOps, with 10+ years of 
 
 - 📄 Know about my experiences [https://qaisarrajput.github.io/resume](https://qaisarrajput.github.io/resume)
 
+- ✍ Author for  [Towards Data Science](https://towardsdatascience.com/author/qaisartanvir/) and [Towards AI ](https://towardsai.net/p/l/multimodal-deep-multipage-document-classification-using-both-image-and-text)
+
 ### Recent Publications:
 <!-- BLOG-POST-LIST:START --><table>
   <tr>
