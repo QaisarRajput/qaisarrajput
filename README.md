@@ -18,18 +18,77 @@ I specialize in AI/ML architecture, deep learning, and MLOps, with 10+ years of 
 - 📄 Know about my experiences [https://qaisarrajput.github.io/resume](https://qaisarrajput.github.io/resume)
 
 ### Recent Publications:
-<!-- BLOG-POST-LIST:START -->
-- [DINOv3: why vision foundation models deserve the same excitement as LLMs](https://pub.towardsai.net/meta-dinov3-630cd469d1f3?source=rss-71aad953b7b3------2)
-- [SEO to GEO: Search Engine Optimization using AI](https://pub.towardsai.net/seo-to-geo-search-engine-optimization-using-ai-ef3b50c7d878?source=rss-71aad953b7b3------2)
-- [Codebase-to-Text : Give your whole code project to LLMs](https://medium.com/@qaisartanvir/codebase-to-text-give-your-whole-code-project-to-llms-046ffcea0926?source=rss-71aad953b7b3------2)
-- [Ethical Implications of AI in Warfare: Navigating a Complex Landscape](https://pub.towardsai.net/ai-in-warfare-606ed510ae48?source=rss-71aad953b7b3------2)
-- [Multimodal Deep Multipage Document Classification using both Image and Text](https://pub.towardsai.net/multimodal-deep-multipage-document-classification-using-both-image-and-text-629e5a2fdb47?source=rss-71aad953b7b3------2)
-- [Data Drift Analysis using Deep Learning and Novelty Detection](https://medium.com/@qaisartanvir/data-drift-analysis-using-deep-learning-and-novelty-detection-e6232f9cdbb3?source=rss-71aad953b7b3------2)
-- [RealZoo Game — Images of all Animals and Hybrids](https://medium.com/@qaisartanvir/realzoo-game-images-of-all-animals-and-hyribs-144323877a15?source=rss-71aad953b7b3------2)
-- [How to download Torrent if blocked in Country or by ISP. Safe and Free! Without VPN](https://medium.com/@qaisartanvir/how-to-download-torrent-if-blocked-in-country-or-by-isp-safe-and-free-without-vpn-2bf717fcb0ec?source=rss-71aad953b7b3------2)
-- [Multi Page Document Classification using Machine Learning and NLP](https://medium.com/data-science/multi-page-document-classification-using-machine-learning-and-nlp-ba6151405c03?source=rss-71aad953b7b3------2)
-- [Multi-Page Document Classification | Part-4](https://medium.com/@qaisartanvir/multi-page-document-classification-part-4-357a697abebb?source=rss-71aad953b7b3------2)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><a href="https://pub.towardsai.net/meta-dinov3-630cd469d1f3?source=rss-71aad953b7b3------2" target="_blank">
+  <img src="$postImage" alt="DINOv3: why vision foundation models deserve the same excitement as LLMs" width="400"/>
+</a>  
+<br/>  
+<b><a href="https://pub.towardsai.net/meta-dinov3-630cd469d1f3?source=rss-71aad953b7b3------2" target="_blank">DINOv3: why vision foundation models deserve the same excitement as LLMs</a></b>  
+<br/>  
+  
+<br/><br/><a href="https://pub.towardsai.net/seo-to-geo-search-engine-optimization-using-ai-ef3b50c7d878?source=rss-71aad953b7b3------2" target="_blank">
+  <img src="$postImage" alt="SEO to GEO: Search Engine Optimization using AI" width="400"/>
+</a>  
+<br/>  
+<b><a href="https://pub.towardsai.net/seo-to-geo-search-engine-optimization-using-ai-ef3b50c7d878?source=rss-71aad953b7b3------2" target="_blank">SEO to GEO: Search Engine Optimization using AI</a></b>  
+<br/>  
+  
+<br/><br/><a href="https://medium.com/@qaisartanvir/codebase-to-text-give-your-whole-code-project-to-llms-046ffcea0926?source=rss-71aad953b7b3------2" target="_blank">
+  <img src="$postImage" alt="Codebase-to-Text : Give your whole code project to LLMs" width="400"/>
+</a>  
+<br/>  
+<b><a href="https://medium.com/@qaisartanvir/codebase-to-text-give-your-whole-code-project-to-llms-046ffcea0926?source=rss-71aad953b7b3------2" target="_blank">Codebase-to-Text : Give your whole code project to LLMs</a></b>  
+<br/>  
+  
+<br/><br/><a href="https://pub.towardsai.net/ai-in-warfare-606ed510ae48?source=rss-71aad953b7b3------2" target="_blank">
+  <img src="$postImage" alt="Ethical Implications of AI in Warfare: Navigating a Complex Landscape" width="400"/>
+</a>  
+<br/>  
+<b><a href="https://pub.towardsai.net/ai-in-warfare-606ed510ae48?source=rss-71aad953b7b3------2" target="_blank">Ethical Implications of AI in Warfare: Navigating a Complex Landscape</a></b>  
+<br/>  
+  
+<br/><br/><a href="https://pub.towardsai.net/multimodal-deep-multipage-document-classification-using-both-image-and-text-629e5a2fdb47?source=rss-71aad953b7b3------2" target="_blank">
+  <img src="$postImage" alt="Multimodal Deep Multipage Document Classification using both Image and Text" width="400"/>
+</a>  
+<br/>  
+<b><a href="https://pub.towardsai.net/multimodal-deep-multipage-document-classification-using-both-image-and-text-629e5a2fdb47?source=rss-71aad953b7b3------2" target="_blank">Multimodal Deep Multipage Document Classification using both Image and Text</a></b>  
+<br/>  
+  
+<br/><br/><a href="https://medium.com/@qaisartanvir/data-drift-analysis-using-deep-learning-and-novelty-detection-e6232f9cdbb3?source=rss-71aad953b7b3------2" target="_blank">
+  <img src="$postImage" alt="Data Drift Analysis using Deep Learning and Novelty Detection" width="400"/>
+</a>  
+<br/>  
+<b><a href="https://medium.com/@qaisartanvir/data-drift-analysis-using-deep-learning-and-novelty-detection-e6232f9cdbb3?source=rss-71aad953b7b3------2" target="_blank">Data Drift Analysis using Deep Learning and Novelty Detection</a></b>  
+<br/>  
+  
+<br/><br/><a href="https://medium.com/@qaisartanvir/realzoo-game-images-of-all-animals-and-hyribs-144323877a15?source=rss-71aad953b7b3------2" target="_blank">
+  <img src="$postImage" alt="RealZoo Game — Images of all Animals and Hybrids" width="400"/>
+</a>  
+<br/>  
+<b><a href="https://medium.com/@qaisartanvir/realzoo-game-images-of-all-animals-and-hyribs-144323877a15?source=rss-71aad953b7b3------2" target="_blank">RealZoo Game — Images of all Animals and Hybrids</a></b>  
+<br/>  
+  
+<br/><br/><a href="https://medium.com/@qaisartanvir/how-to-download-torrent-if-blocked-in-country-or-by-isp-safe-and-free-without-vpn-2bf717fcb0ec?source=rss-71aad953b7b3------2" target="_blank">
+  <img src="$postImage" alt="How to download Torrent if blocked in Country or by ISP. Safe and Free! Without VPN" width="400"/>
+</a>  
+<br/>  
+<b><a href="https://medium.com/@qaisartanvir/how-to-download-torrent-if-blocked-in-country-or-by-isp-safe-and-free-without-vpn-2bf717fcb0ec?source=rss-71aad953b7b3------2" target="_blank">How to download Torrent if blocked in Country or by ISP. Safe and Free! Without VPN</a></b>  
+<br/>  
+  
+<br/><br/><a href="https://medium.com/data-science/multi-page-document-classification-using-machine-learning-and-nlp-ba6151405c03?source=rss-71aad953b7b3------2" target="_blank">
+  <img src="$postImage" alt="Multi Page Document Classification using Machine Learning and NLP" width="400"/>
+</a>  
+<br/>  
+<b><a href="https://medium.com/data-science/multi-page-document-classification-using-machine-learning-and-nlp-ba6151405c03?source=rss-71aad953b7b3------2" target="_blank">Multi Page Document Classification using Machine Learning and NLP</a></b>  
+<br/>  
+  
+<br/><br/><a href="https://medium.com/@qaisartanvir/multi-page-document-classification-part-4-357a697abebb?source=rss-71aad953b7b3------2" target="_blank">
+  <img src="$postImage" alt="Multi-Page Document Classification | Part-4" width="400"/>
+</a>  
+<br/>  
+<b><a href="https://medium.com/@qaisartanvir/multi-page-document-classification-part-4-357a697abebb?source=rss-71aad953b7b3------2" target="_blank">Multi-Page Document Classification | Part-4</a></b>  
+<br/>  
+  
+<br/><br/><!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
