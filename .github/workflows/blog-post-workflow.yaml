@@ -1,14 +1,37 @@
-name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "10"
-                feed_list: "https://medium.com/@qaisartanvir/list/publications-038a82658e94"
+name: Update Medium posts in README
+
+on:
+  schedule:
+    - cron: "*/5 * * * *" # Runs every hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Pull in Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@qaisartanvir"
+          max_post_count: 10
+          commit_message: "Update README with latest Medium posts"
+
+          # Extract first image from content:encoded
+          custom_tags: "postImage/content:encoded/\\<img.+src=['\\\"]([^'\\\"]+)['\\\"][^>]*\\>/$1/"
+
+          # Template to show image, title (linked), and description
+          template: |
+            <a href="$url" target="_blank">
+              <img src="$postImage" alt="$title" width="400"/>
+            </a>  
+            <br/>  
+            <b><a href="$url" target="_blank">$title</a></b>  
+            <br/>  
+            $description  
+            <br/><br/>
