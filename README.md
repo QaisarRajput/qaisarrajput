@@ -65,12 +65,12 @@ I specialize in AI/ML architecture, deep learning, and MLOps, with 10+ years of 
 <br/><table>
   <tr>
     <td width="220" valign="top">
-      <a href="https://pub.towardsai.net/ai-in-warfare-606ed510ae48?source=rss-71aad953b7b3------2" target="_blank">
+      <a href="https://medium.com/@qaisartanvir/ai-in-warfare-606ed510ae48?source=rss-71aad953b7b3------2" target="_blank">
         <img src="https://cdn-images-1.medium.com/max/1024/1*U5nDy7_D9jcIYt2CPcsz9Q.png" alt="Ethical Implications of AI in Warfare: Navigating a Complex Landscape" width="200"/>
       </a>
     </td>
     <td valign="top">
-      <b><a href="https://pub.towardsai.net/ai-in-warfare-606ed510ae48?source=rss-71aad953b7b3------2" target="_blank">Ethical Implications of AI in Warfare: Navigating a Complex Landscape</a></b><br/>
+      <b><a href="https://medium.com/@qaisartanvir/ai-in-warfare-606ed510ae48?source=rss-71aad953b7b3------2" target="_blank">Ethical Implications of AI in Warfare: Navigating a Complex Landscape</a></b><br/>
       <p>Exploring the Real-World Implications and Regulatory Imperatives Amidst Israel’s AI-Enabled Military Operations</p>
       <i>Tags:</i> <code>surveillance</code><code>responsible-ai</code><code>artificial-intelligence</code><code>warfare</code><code>machine-learning</code>
     </td>
